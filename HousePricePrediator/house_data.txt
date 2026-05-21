@@ -1,0 +1,9 @@
+
+House Size : 1400.0 sq ft
+Bedrooms   : 3
+Age        : 20
+Location   : city
+Parking    : yes
+Garden     : yes
+Price      : Rs.6,850,000.00
+----------------------------------------
